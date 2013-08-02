@@ -14,16 +14,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>gov.usgs.cida</groupId>
+    <groupId>org.geotools</groupId>
     <artifactId>plugin</artifactId>
-    <version>10-NaNFix-SNAPSHOT</version>
+    <version>10-SNAPSHOT</version>
   </parent>
 
 
   <!-- =========================================================== -->
   <!--     Module Description                                      -->
   <!-- =========================================================== -->
-  <groupId>org.geotools</groupId>
+  <groupId>gov.usgs.cida</groupId>
   <artifactId>gt-shapefile</artifactId>
   <packaging>jar</packaging>
   <name>Shapefile module</name>
