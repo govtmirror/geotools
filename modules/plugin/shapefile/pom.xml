@@ -14,9 +14,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.geotools</groupId>
+    <groupId>gov.usgs.cida</groupId>
     <artifactId>plugin</artifactId>
-    <version>10-SNAPSHOT</version>
+    <version>10-NaNFix-SNAPSHOT</version>
   </parent>
 
 
